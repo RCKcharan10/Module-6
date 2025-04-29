@@ -42,6 +42,7 @@ print(counter.value())
 ```
 
 ### OUTPUT
-
+![image](https://github.com/user-attachments/assets/f7f39abb-189c-4f6e-b23d-f7ad92a2b3b7)
 
 ### RESULT
+Thus, the Python program to create a Counter class and demonstrate its functionality using class methods was successfully executed.
