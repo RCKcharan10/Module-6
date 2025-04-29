@@ -58,6 +58,7 @@ h.sides()
 ```
 
 ### OUTPUT
-
+![image](https://github.com/user-attachments/assets/7f3e5e15-0f53-4f15-90eb-c1a0ada4e5cc)
 
 ### RESULT
+The abstract base class and its implementation in various subclasses were successfully demonstrated using Python.
